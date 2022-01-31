@@ -9,6 +9,13 @@
       },
       "url": "https://package.openupm.com"
     },
+    "com.ultraleap.tracking": {
+      "version": "5.2.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.addressables": {
       "version": "1.19.17",
       "depth": 0,
